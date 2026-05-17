@@ -1,0 +1,117 @@
+[index.html](https://github.com/user-attachments/files/27898572/index.html)
+<html lang="fr">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>HTML & CSS</title>
+		<link rel="stylesheet" href="style.css" />
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Playwrite+FR+Trad&display=swap" rel="stylesheet">
+	</head>
+	<body>
+		<header>
+			<nav>
+				<h1>L'écriture cursive au CP</h1>
+				
+        <div class="right">
+					<div class="image-presentation">
+					<img
+					src = "https://drive.google.com/uc?export=view&id=1OJoZzOrCLs_mv_BAGYwPzlC7v9zInh2H" />
+		    	</div>
+			</nav>
+
+			<section class="presentation first">
+        
+				<div class="product-presentation">
+					<h1>Écrire, un vrai jeu d'enfant avec le chat Nino !</h1>
+					<p>
+						Deviens un champion en écriture ! 
+					</p>
+					<p>
+						Le chat Nino est là pour te guider et t'apprendre les gestes d'écriture. Tu vas ainsi devenir de plus en plus autonome et écrire deviendra un vrai jeu d'enfant.
+						Le petit garçon Milo, quant à lui, te montrera des gestes pour mémoriser chaque son. 
+					</p>
+					<p>
+					Et si tu obtenais un beau diplôme !	
+					</p>
+          
+						<a href="https://drive.google.com/file/d/1-dM1FZMEvH1NYuyr7rxbofsTZdDYd3EM/view?usp=drive_link">
+              <button>Extrait
+        </button>
+                    </a>
+          <a href="https://miloquest05.gumroad.com/l/yldryp">
+						<button>Acheter maintenant</button>
+           </a>
+				<div class="small-images">
+						<div class="small">
+							
+
+								<img
+								src="https://cdn.shopify.com/s/files/1/2654/0420/products/RECONSPARK_HEADSET_3.png?v=1571871155"
+							/>
+                 						</div>
+						<div class="small">
+							<img
+								src="https://cdn.shopify.com/s/files/1/2654/0420/products/RECONSPARK_HEADSET_3.png?v=1571871155"
+                  
+							/>
+						</div>
+						<div class="small">
+							<img
+								src="https://cdn.shopify.com/s/files/1/2654/0420/products/RECONSPARK_HEADSET_8.png?v=1571871155"
+							/>
+						</div>
+					</div>
+				</div>
+				<div class="image-presentation" wi>
+					<img
+						src="https://resource.logitechg.com/e_trim/w_600,h_550,c_limit,q_auto:best,f_auto,dpr_auto,dpr_1.0/d_transparent.gif/content/dam/gaming/en/products/g733/gallery/g733-lilac-gallery-1.png?v=1"
+					/>
+				</div>
+			</section>
+		</header>
+      
+		<section class="presentation second">
+			<div class="product-presentation">
+				<p class="new">L'année de CP réussie</p>
+				<h1>Le cahier d'écriture cp</h1>
+				<p>
+					Apprends à écrire et lire au CP avec le chat Nino à l'école de Milo.
+				</p>
+				
+				<p>Un cahier conçu pour enseigner efficacement dès le début d'année.
+				</p>Pensé à partir d'une pratique réelle en classe, ce cahier propose une progression claire structurée pour les trois premières périodes du CP, conforme aux programmes 2025. 
+				<p>L'élève progresse pas à pas : lettres minuscules, syllabes, mots, puis phrases de copie pour mémoriser les mots-outils et les sons, entraînement à la lecture en contexte. 
+				</p>
+				<p>
+				Le cahier intègre aussi un espace dédié à la dictée pour consolider les acquis
+				</p> Un véritable gain de teps pour l'enseignant ou l'instruction en famille. 
+				<p>Les activités sont organisées pour être utilisées directement en classe, sans préparation supplémentaire. Le lignage évolutif accompagne l'enfant dans ses progrès : d'environ 3 mm (lignage maternelle) vers le seyès d'environ 2.5 mm en période 3, pour une écriture progressivement maîtrisée.
+				</p> 
+	
+			</div>
+			<div class="image-presentation">
+				<img
+					src = "image-presentation"
+				/>
+			</div>
+		</section>
+
+		<footer>
+		
+  
+</div><div class="column">
+				<h3>Contact</h3>
+				<p>lecoledemilo@proton.me</p>
+				<p>Une réponse vous sera apportée dans les meilleurs délais.</p>				
+			</div>
+			<div class="column">
+				<h3>Réseaux</h3>
+				<p>Facebook</p>
+				<p>Twitter</p>
+				<p>Instagram</p>
+			</div>
+		</footer>
+	</body>
